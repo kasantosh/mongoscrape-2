@@ -1,0 +1,7 @@
+.bannermain {
+  background-image: url(../images/newsback.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 70vh;
+}
